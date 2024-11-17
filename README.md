@@ -19,10 +19,10 @@
 ## 🌟 About Me
 
 - 🎓 **BS Cybersecurity Student at FAST NUCES**
-- 🛡️ **CTF Enthusiast and Reverse Engineer**
+- 🛡️ **CTF Enthusiast, PWN and Reverse Engineer**
 - 💻 **Languages**: Python, C++, Assembly (MASM)
 - 🌱 **Currently Learning**: Ghidra, Advanced Reverse Engineering, Blockchain
-- 🎯 **Goals**: Excel in cybersecurity, master reverse engineering, and contribute to the community.
+- 🎯 **Goals**: Excel in cybersecurity, master reverse engineering and pwn, and contribute to the community.
 
 ---
 
@@ -55,8 +55,8 @@
 
 ## 🌍 Let's Connect
 - 📫 Email: [abdulrafaybinrauf@gmail.com](mailto:abdulrafaybinrauf@gmail.com)
-- 🌐 [TryHackMe Profile]((https://tryhackme.com/r/p/abdul.rafay44))
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- 🌐 [TryHackMe Profile](https://tryhackme.com/r/abdul.rafay44)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-rafay44/)
 
 ---
 
