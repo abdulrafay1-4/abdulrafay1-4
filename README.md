@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul Rafay 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student+%7C+FAST+NUCES;Reverse+Engineering+%7C+CTF+Player;Python+%7C+C%2B%2B+%7C+Problem+Solver;Always+Learning+%7C+Thriving+in+CyberWorld" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=CYS+Student+%7C+FAST+NUCES;CTF+Player;Python+%7C+C%2B%2B" alt="Typing Animation" />
 </p>
 
 ---
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-FF5733?style=for-the-badge&logo=apache" />
   <img src="https://img.shields.io/badge/TryHackMe-Awesome-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reverse--Engineering-Ghidra-blue" />
 </p>
 
 ---
@@ -56,8 +55,8 @@
 
 ## 🌍 Let's Connect
 - 📫 Email: [abdulrafaybinrauf@gmail.com](mailto:abdulrafaybinrauf@gmail.com)
-- 🌐 [TryHackMe Profile]([https://tryhackme.com/p/outcas](https://tryhackme.com/r/p/abdul.rafay44)t)
-- 💼 LinkedIn: [Profile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- 🌐 [TryHackMe Profile]((https://tryhackme.com/r/p/abdul.rafay44))
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ---
 
