@@ -23,13 +23,13 @@
 ## 🌟 About Me
 
 - 🎓 **BS Cybersecurity Student at FAST NUCES**
-- 🔐 **CTF Player (PWN & Reversing) | Blue Team Focus**
+- 🔐 **CTF Player (Forensics) | Blue Team Focus**
 - 🧠 **Learning:** Ghidra, DFIR, Volatility, Threat Hunting, Blockchain
 - 🧰 **Languages:** Python, C++, Go, Rust, TypeScript, x86/x64 Assembly, Bash
 - 🛠️ **Tools:** Ghidra, Wireshark, Volatility 3, Autopsy, TShark, Git, tmux
 - 🔒 **Project Experience:** Secure VPN system (custom DTLS + encryption stack)
-- 📘 **TryHackMe Paths:** Intro to Cybersecurity, Pre-Security, Complete Beginner
-- 🎯 **Current Focus:** Blue Teaming, Memory Forensics, Reverse Engineering
+- 📘 **TryHackMe Paths:** Intro to Cybersecurity, Cyber-security 101, SOC Level 1
+- 🎯 **Current Focus:** Blue Teaming, Memory Forensics, DFIR
 
 ---
 
@@ -55,8 +55,6 @@
 - [**Log Analyzer**](https://github.com/abdulrafay1-4/Log-Analyzer): Python-based log inspection and brute force detection system.
 - [**Client-Server Model**](https://github.com/abdulrafay1-4/Client-Server-Model): Secure communication using AES + Diffie-Hellman key exchange.
 - [**Secure VPN**](https://github.com/abdulrafay1-4/Secure-VPN): Custom DTLS-based VPN system with AES-GCM encryption & authentication.
-- [**Café Digital System**](https://github.com/abdulrafay1-4/Cafe-Digital-System): C++ inventory management with file-level access control.
-- **Custom CTF Challenges**: Designing binary exploitation and forensics challenges for platforms and private labs.
 
 ---
 
@@ -71,10 +69,9 @@
 
 ## 🌍 Let's Connect
 
-- 📫 Email: [abdulrafaybinrauf@gmail.com](mailto:abdulrafaybinrauf@gmail.com)
+- 📫 [abdulrafaybinrauf@gmail.com](mailto:abdulrafaybinrauf@gmail.com)
 - 🔗 [TryHackMe Profile](https://tryhackme.com/r/abdul.rafay44)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rafay44/)
-- 🔨 Fiverr: [@abdulrafay1_4](https://www.fiverr.com/abdulrafay1_4)
 
 ---
 
